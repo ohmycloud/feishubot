@@ -9,8 +9,6 @@ SYNOPSIS
 ```raku
 use FeiShuBot;
 
-use FeiShuBot;
-
 my $hook-url = "https://open.feishu.cn/open-apis/bot/v2/hook/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx";
 my $secret = "xxxxxxxxxxxxxxxxxxxxxx";
 my $client = FeiShuBot.new(:$hook-url, :$secret);
