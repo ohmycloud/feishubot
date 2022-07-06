@@ -1,0 +1,27 @@
+{
+  "auth": "zef:ohmycloudy",
+  "authors": [
+    "ohmycloudy@gmail.com"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+    "Digest::HMAC", "Digest", "Digest::SHA", "MIME::Base64", "Cro::HTTP::Client"
+  ],
+  "description": "Custom bot for feishu",
+  "license": "Artistic-2.0",
+  "name": "FeiShuBot",
+  "perl": "6.d",
+  "provides": {
+    "FeiShuBot": "lib/FeiShuBot.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "https://github.com/ohmycloud/feishubot.git",
+  "tags": [
+    "feishu", "bot"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
