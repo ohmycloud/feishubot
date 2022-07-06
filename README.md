@@ -25,7 +25,7 @@ FeiShuBot is a mini tool for sending message to feishu group.
 AUTHOR
 ======
 
-<ohmycloud@gmail.com>
+<ohmycloudy@gmail.com>
 
 COPYRIGHT AND LICENSE
 =====================
